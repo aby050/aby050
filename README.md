@@ -34,6 +34,14 @@
 | **Adopto** | Street-animal adoption and care in India |
 | **Clearloft** | One-click disk cleaner for developer Macs |
 
+## 🤝 Client Projects:
+
+| Project | What I do |
+|---|---|
+| **HolyReads** | Faith-based reading app: React Native app, Angular admin panel and Node.js backend on AWS |
+| **AbbaKid** | Kids' learning app: React Native app, AWS Lambda backend and Play Store releases |
+| **The Mentoring Project** | Mentoring app: React Native app, iOS and Android builds and releases |
+
 ## 📊 GitHub Stats:
 
 <img src="https://github-readme-stats.vercel.app/api?username=aby050&show_icons=true&hide_border=true" height="160" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aby050&layout=compact&hide_border=true" height="160" />
