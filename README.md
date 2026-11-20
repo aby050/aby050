@@ -6,7 +6,9 @@
 
 📱 I build mobile apps, games and web products from idea to App Store and Play Store.
 
-🤖 AI app developer, technical project manager and product builder.
+🧭 Product builder and technical project manager: architecture, delivery and launch.
+
+⚡ I use AI in my workflow to ship faster with higher quality.
 
 🛠️ Working on **[QuaySync](https://github.com/aby050/quaysync)**, local-first sync for React Native.
 
